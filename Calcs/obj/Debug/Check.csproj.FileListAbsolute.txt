@@ -1,0 +1,6 @@
+D:\WORK\Tests\Calcs\bin\Debug\Calcs.dll
+D:\WORK\Tests\Calcs\bin\Debug\Calcs.pdb
+D:\WORK\Tests\Calcs\obj\Debug\Check.csproj.AssemblyReference.cache
+D:\WORK\Tests\Calcs\obj\Debug\Check.csproj.CoreCompileInputs.cache
+D:\WORK\Tests\Calcs\obj\Debug\Calcs.dll
+D:\WORK\Tests\Calcs\obj\Debug\Calcs.pdb
