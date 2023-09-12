@@ -1,6 +1,0 @@
-D:\WORK\Tests\Calculator\bin\Debug\Calculator.dll
-D:\WORK\Tests\Calculator\bin\Debug\Calculator.pdb
-D:\WORK\Tests\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
-D:\WORK\Tests\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-D:\WORK\Tests\Calculator\obj\Debug\Calculator.dll
-D:\WORK\Tests\Calculator\obj\Debug\Calculator.pdb
