@@ -1,0 +1,7 @@
+D:\WORK\Tests\OLEG\bin\Debug\OLEG.exe.config
+D:\WORK\Tests\OLEG\bin\Debug\OLEG.exe
+D:\WORK\Tests\OLEG\bin\Debug\OLEG.pdb
+D:\WORK\Tests\OLEG\obj\Debug\OLEG.csproj.AssemblyReference.cache
+D:\WORK\Tests\OLEG\obj\Debug\OLEG.csproj.CoreCompileInputs.cache
+D:\WORK\Tests\OLEG\obj\Debug\OLEG.exe
+D:\WORK\Tests\OLEG\obj\Debug\OLEG.pdb

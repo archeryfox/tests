@@ -1,0 +1,6 @@
+D:\WORK\Tests\Stringis\bin\Debug\Stringis.dll
+D:\WORK\Tests\Stringis\bin\Debug\Stringis.pdb
+D:\WORK\Tests\Stringis\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\WORK\Tests\Stringis\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\WORK\Tests\Stringis\obj\Debug\Stringis.dll
+D:\WORK\Tests\Stringis\obj\Debug\Stringis.pdb
