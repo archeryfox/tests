@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcher", "FileWatcher.csproj", "{7306942A-3CA1-48A4-98D7-385031E72AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcher.Tests", "..\FileWatcher.Tests\FileWatcher.Tests.csproj", "{BD09DAC1-B2C7-4ED7-B21D-49917EB0E364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7306942A-3CA1-48A4-98D7-385031E72AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7306942A-3CA1-48A4-98D7-385031E72AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7306942A-3CA1-48A4-98D7-385031E72AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7306942A-3CA1-48A4-98D7-385031E72AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD09DAC1-B2C7-4ED7-B21D-49917EB0E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD09DAC1-B2C7-4ED7-B21D-49917EB0E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD09DAC1-B2C7-4ED7-B21D-49917EB0E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD09DAC1-B2C7-4ED7-B21D-49917EB0E364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273BA837-7F13-4D47-9CDE-BE3EA3EACC17}
+	EndGlobalSection
+EndGlobal
